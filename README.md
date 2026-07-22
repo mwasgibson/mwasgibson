@@ -6,7 +6,7 @@ I build reliable software solutions ranging from systems automation utilities an
 
 ---
 
-## 🛠️ Areas of Expertise
+## Areas of Expertise
 
 * **Backend & API Engineering:** Designing clean RESTful APIs, modular architectures, and scalable database schemas.
 * **Security & Trust Systems:** Developing domain evaluation tools, digital identity verification systems, and network security research tools.
