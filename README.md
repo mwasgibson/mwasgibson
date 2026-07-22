@@ -53,7 +53,7 @@ I build reliable software solutions ranging from systems automation utilities an
 
 * **Email:** [mwangigibson71@gmail.com]
 * **GitHub:** [@mwasgibson](https://github.com/mwasgibson)
-* **Whatsapp:** [+254794819019]
+* **Contact:** [+254 794 819 019](tel:+254794819019)
 
 ## I'm Open to
 
