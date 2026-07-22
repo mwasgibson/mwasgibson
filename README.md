@@ -22,8 +22,6 @@ I build reliable software solutions ranging from systems automation utilities an
   A browser extension paired with a Node.js backend that evaluates website trustworthiness by analyzing security posture, domain age, broken links, and known-threat blocklists.
 * **[source](https://github.com/mwasgibson/source)**  
   A secure digital identity platform utilizing QR code verification and structured MySQL data storage for rapid identity validation.
-* **[IoT-ddos-detection](https://github.com/mwasgibson/IoT-ddos-detection)**  
-  A cybersecurity research project focused on real-time traffic analysis, threat detection, and attack mitigation within IoT network environments.
 
 ### Automation & Tooling
 * **[grubber](https://github.com/mwasgibson/grubber)**  
@@ -32,8 +30,6 @@ I build reliable software solutions ranging from systems automation utilities an
   A modular personal assistant system built with Python, featuring custom task automation modules and voice command capabilities.
 * **[Traffic-route-optimization-](https://github.com/mwasgibson/Traffic-route-optimization-)**  
   An intelligent route recommendation system integrating real-time traffic conditions, weather metrics, and spatial data analysis.
-* **[bluetooth-metadata-monitor](https://github.com/mwasgibson/bluetooth-metadata-monitor)**  
-  An Android/Kotlin utility for monitoring and analyzing Bluetooth device metadata and connections.
 
 ### Web & Application Development
 * **[Hotel-management-website-](https://github.com/mwasgibson/Hotel-management-website-)**  
